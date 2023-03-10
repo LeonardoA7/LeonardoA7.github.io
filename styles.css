@@ -11,19 +11,20 @@
     color: #fff;
     text-decoration: none;
   }
-  .mart {
-    background-color: bisque;
-    margin: auto;
-    padding-top: 20px;
-    width: 80%;
-  }
-  .martE {
-    background-color: bisque;
-    margin-left: auto;
-    padding: 10px;
-    width: 80%;
-  }
   .cen{
     text-align: center;
     margin: 10px;
+  }
+  section{
+    overflow: auto;
+    height: 100%;
+  }
+  .mart {
+    background-color: bisque;
+    margin: auto;
+    width: 450px;
+  }
+  .martE {
+    background-color: bisque;
+    width: 450px;
   }
