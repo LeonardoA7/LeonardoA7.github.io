@@ -1,6 +1,7 @@
   body {
     font-family: Georgia, serif;
     background-color: hsl(194, 48%, 87%);
+    margin: 20px;
   }
   main {
     padding: 20px;
