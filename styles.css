@@ -3,13 +3,6 @@
     background-color: hsl(194, 48%, 87%);
     margin: 30px;
   }
-  .circle{
-    float: left; 
-    margin-right: 10px;
-    border-radius: 50%; 
-    width: 400px; 
-    height: 400px;
-  }
   .circle2{
     float: left; 
     margin-right: 10px;
@@ -31,6 +24,7 @@
   .Dino{
     font-size: 36px;
     margin-left: 80px;
+    font-style: italic;
   }
   .cen{
     text-align: center;
