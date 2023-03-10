@@ -1,6 +1,6 @@
   body {
     font-family: Georgia, serif;
-    background-color: hsl(190, 17%, 80%);
+    background-color: hsl(192, 7%, 40%);
     padding: 10px;
   }
   nav {
@@ -17,4 +17,7 @@
     margin: 10px;
     width: 200px;
     float: left;
+  }
+  .mart {
+    background-color: #b6b641;
   }
