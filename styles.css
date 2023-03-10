@@ -13,8 +13,9 @@
   }
   .mart {
     background-color: bisque;
+    margin: auto;
     padding: 10px;
-    width: 450px;
+    width: 80%;
   }
   .cen{
     text-align: center;
