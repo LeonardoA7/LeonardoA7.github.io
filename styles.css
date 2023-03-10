@@ -13,7 +13,13 @@
   }
   .mart {
     background-color: bisque;
-    margin: auto;
+    margin-top: auto;
+    padding: 20px;
+    width: 80%;
+  }
+  .martE {
+    background-color: bisque;
+    margin-left: auto;
     padding: 10px;
     width: 80%;
   }
