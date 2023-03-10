@@ -21,10 +21,11 @@
   }
   .mart {
     background-color: bisque;
-    margin: auto;
+    padding: 5px;
     width: 450px;
   }
   .martE {
     background-color: bisque;
+    padding: 5px;
     width: 450px;
   }
