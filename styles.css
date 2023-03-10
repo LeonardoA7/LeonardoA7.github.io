@@ -1,23 +1,20 @@
   body {
     font-family: Georgia, serif;
     background-color: hsl(192, 7%, 40%);
-    padding: 10px;
   }
   nav {
     background-color: #333;
     color: #fff;
+    padding: 10px;
   }
   nav a {
     color: #fff;
     text-decoration: none;
   }
-  article {
+  .mart {
     background-color: bisque;
     padding: 10px;
     margin: 10px;
     width: 200px;
     float: left;
-  }
-  .mart {
-    background-color: #b6b641;
   }
