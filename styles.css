@@ -46,12 +46,14 @@
   .mart {
     background-color: bisque;
     padding: 20px;
+    margin: 10px;
     width: 550px;
     float: left;
   }
   .martE {
     background-color: bisque;
     padding: 15px;
+    margin: 10px;
     width: 750px;
     float: unset;
     overflow: auto;
