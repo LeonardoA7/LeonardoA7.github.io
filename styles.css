@@ -43,7 +43,7 @@
     background-color: bisque;
     padding: 15px;
     width: 750px;
-    float: left;
+    float: unset;
   }
   .imageText{
     overflow: auto;
