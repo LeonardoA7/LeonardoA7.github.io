@@ -21,6 +21,10 @@
     color: #fff;
     text-decoration: none;
   }
+  h1{
+    font-size: 36px;
+    margin-left: 80px;
+  }
   .cen{
     text-align: center;
     margin: 10px;
@@ -40,4 +44,7 @@
     padding: 15px;
     width: 750px;
     float: left;
+  }
+  .imageText{
+    overflow: auto;
   }
