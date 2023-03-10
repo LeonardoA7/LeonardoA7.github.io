@@ -2,10 +2,6 @@
     font-family: Georgia, serif;
     background-color: hsl(194, 48%, 87%);
   }
-  main{
-    padding: 10px;
-    margin: 10px;
-  }
   section{
     overflow: auto;
     height: 100%;
@@ -28,4 +24,5 @@
   }
   .mart2{
     text-align: center;
+    margin: 10px;
   }
