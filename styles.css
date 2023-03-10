@@ -22,9 +22,9 @@
   .mart{
     background-color: bisque;
     padding: 15px;
-    width: 750px;
+    width: 650px;
     float: left;
- 
+    margin: 5px;
   }
   .martE {
     background-color: bisque;
