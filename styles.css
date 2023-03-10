@@ -51,9 +51,9 @@
     float: left;
   }
   .martE {
-    background-color: bisque;
+    background-color: rgb(220, 238, 180);
     padding: 15px;
-    margin: 10px;
+    margin-left: 80px;
     width: 750px;
     float: unset;
     overflow: auto;
