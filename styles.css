@@ -31,6 +31,8 @@
   }
   .martE {
     background-color: bisque;
-    padding: 5px;
-    width: 450px;
+    padding: 15px;
+    margin: auto;
+    width: 750px;
+    float: left;
   }
