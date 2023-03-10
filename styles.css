@@ -44,6 +44,7 @@
     padding: 15px;
     width: 750px;
     float: unset;
+    overflow: auto;
   }
   .imageText{
     overflow: auto;
